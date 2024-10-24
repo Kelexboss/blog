@@ -1,2 +1,14 @@
 plugins:
   - jekyll-sitemap
+
+# Pagination settings
+paginate: 5  # Number of posts per page
+paginate_path: "/page:num/"  # URL structure for pagination
+
+# Set the homepage to use the 'home' layout
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: home
