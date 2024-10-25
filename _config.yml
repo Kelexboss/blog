@@ -5,3 +5,5 @@ paginate: 10
 plugins: [jekyll-feed]
 markdown: kramdown
 highlighter: rouge
+plugins:
+  - jekyll-sitemap
