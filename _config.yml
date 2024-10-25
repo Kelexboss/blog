@@ -3,3 +3,5 @@ description: "A simple blog on GitHub Pages"
 theme: minima
 paginate: 10
 plugins: [jekyll-feed]
+markdown: kramdown
+highlighter: rouge
