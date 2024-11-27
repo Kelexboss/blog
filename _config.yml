@@ -1,5 +1,5 @@
-title: "My Blog"
-description: "A simple blog on GitHub Pages"
+title: "Kelexboss Blog"
+description: "Welcome to my blog"
 theme: minima
 paginate: 10
 plugins: [jekyll-feed]
