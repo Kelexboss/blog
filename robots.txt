@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://kelexboss.github.io/blog/sitemap.xml
